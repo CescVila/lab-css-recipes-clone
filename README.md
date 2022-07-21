@@ -4,7 +4,13 @@
 
 ## Introduction
 
-We have only learned the very basics today with HTML and CSS, so what the heck we can really build, right? Wrong, we can build some cool stuff already, and we are going to do just that.
+We have only learned the very basics today with HTML and CSS, so what the heck we can really build, right? Wron<p>
+          1 recipe pastry for a 9 inch double crust pie <br />
+          1/2 cup unsalted butter <br />3 tablespoons all-purpose flour<br />
+          1/4 cup water <br />3 tablespoons all-purpose flour<br />
+          1/4 cup water 1/2 cup white sugar <br />1/2 cup packed brown sugar<br />
+          8 Granny Smith apples - peeled, cored and sliced
+        </p>g, we can build some cool stuff already, and we are going to do just that.
 
 We all have to eat (at least, we should), so let's make some handy recipe pages. We are going to be recreating an Apple Pie recipe. As an extra step, we prepared French Onion Soup recipe as well.
 

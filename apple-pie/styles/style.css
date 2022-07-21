@@ -3,15 +3,30 @@ body{
     margin: 0;
 }
 
-.sect {
+ul li{
+    list-style: none;
+
+}
+ul li::before{
+    content:'- '
+}
+/* .sect {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100%;
+    width: 100%; */
     
 }
+#im1{
+    text-align: center;
 
+}
+#im2{
+    text-align: center;
+    width:20%;
+
+}
 .sect p {
     width: 90%;
 }
@@ -20,8 +35,8 @@ body{
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center center;
-    height: 600px;
-    width: 100vw;
+    height: 500px;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,4 +47,7 @@ body{
 }
 .container {
     padding: 3rem 4rem ;
-}
+    max-width: 870px;
+    margin: 0 auto;
+    
+} 
